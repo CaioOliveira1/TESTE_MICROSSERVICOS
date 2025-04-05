@@ -1,6 +1,5 @@
 # Microsserviço de Processos
 
-Este projeto foi desenvolvido por Caio Oliveira com objetivo de atender a um desafio técnico para vaga de Analista de Sistemas Júnior.
 
 ## Funcionalidades
 
